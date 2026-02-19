@@ -155,8 +155,8 @@
     yq
 
     # Terminal & Shell
-    kitty           # Terminal emulator (ghostty alternative)
-    alacritty       # Backup terminal
+    ghostty         # Primary terminal
+    kitty           # Backup terminal
     tmux
     zoxide
     starship
@@ -279,7 +279,7 @@
 
     EDITOR = "nvim";
     VISUAL = "nvim";
-    TERMINAL = "kitty";
+    TERMINAL = "ghostty";
     BROWSER = "firefox";
 
     # Rust

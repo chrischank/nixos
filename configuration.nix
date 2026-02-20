@@ -178,6 +178,7 @@
     nodejs_20
     lua
     luajit
+    luarocks
 
     # Development - Tools
     gcc
